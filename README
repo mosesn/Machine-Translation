@@ -1,0 +1,12 @@
+Moses Nakamura
+mnn2104
+
+All of the homework data is in the code directory.  I included the input directory so that you can run the code properly.  The programs must be run from inside of the code directory, because all of the paths are hardcoded.
+
+To run model 1, cd into the code directory, and run "python model1.py".
+
+For model 1, the devwords and first 20 sentences data is in model1_output.txt.  It also has timing data.  It is unformatted, but correct.
+
+To run model 2, cd into the code directory, and run "python model2.py".
+
+For model 2, the first 20 sentences data is in model2_output.txt.  It also has timing data.  It is unformatted, but correct.
